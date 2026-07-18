@@ -22,16 +22,13 @@ Results-driven SDET with 5+ years of experience at Infosys, specializing in test
 **Methodologies:** Agile, Scrum, SDLC, STLC, Bug Life Cycle, Test Strategy, Test Planning  
 **Domain:** Insurance Domain (Claims, Policies, Underwriting), Financial Services, Enterprise Applications  
 **Programming:** Java, SQL, Basic JavaScript, XML, JSON  
-**Performance:** JMeter, Load Testing Concepts, Performance Testing Basics  
-**Build Tools:** Maven, Gradle, Ant  
-**Reporting:** Extent Reports, Allure Reports, TestNG Reports  
+**Performance:** JMeter, Load Testing Concepts, Performance Testing Basics
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
-**Infosys** | Bangalore, India  
-**Quality Engineering Analyst | SDET** | January 2020 – Present  
+**Infosys** | Quality Engineering Analyst | SDET | *January 2020 – Present*
 
 **Claim Center - Insurance Claims Management System**
 - Designed and executed comprehensive test strategy for vehicle damage estimation system, covering all upstream and downstream integrations
@@ -40,21 +37,16 @@ Results-driven SDET with 5+ years of experience at Infosys, specializing in test
 - Led test planning and estimation for 15+ Agile sprints, delivering zero critical production defects
 - Collaborated with cross-functional teams to resolve 200+ defects, improving overall system quality
 - Implemented data-driven testing using Excel and JSON, reducing test maintenance effort by 40%
-- Integrated automated tests into CI/CD pipeline, enabling continuous testing and faster feedback loops
 
 **Escape - Insurance Policy Issuance System**
 - Implemented REST Assured-based API testing framework for policy integration workflows, improving integration testing efficiency by 40%
 - Designed and executed 300+ test cases for policy issuance, quotes, and insurer integration modules
 - Automated web services validation using REST Assured, reducing manual testing effort by 50%
-- Participated in daily scrums and sprint planning, ensuring timely delivery of testing commitments
 - Created comprehensive API test suite covering authentication, authorization, and data validation scenarios
-- Implemented JSON schema validation for API responses, ensuring data integrity and contract compliance
 
 **Iris - International Desktop Application for Insurance**
 - Performed functional and automation testing for policy booking, claims processing, quotes, and closings
 - Executed test cases across multiple environments (Dev, QA, UAT), ensuring consistent quality
-- Documented and maintained comprehensive test suites for international market requirements
-- Contributed to exploratory testing initiatives, identifying critical edge cases using domain expertise
 - Developed and maintained test automation scripts for desktop application using Selenium WebDriver
 - Implemented cross-browser testing for web components, ensuring compatibility across different platforms
 
@@ -67,14 +59,12 @@ Results-driven SDET with 5+ years of experience at Infosys, specializing in test
 - Implemented Page Object Model design pattern for maintainable test scripts
 - Integrated with Jenkins for continuous testing and automated reporting
 - Achieved 70% code coverage and reduced execution time by 50%
-- Implemented data-driven testing using Excel and JSON data sources
 
-**API Testing Suite for Policy Management** | GitHub: github.com/reddyjyotheeswar/api-testing-suite  
+**API Testing Suite for Policy Management** | GitHub: github.com/reddyjyotheeswar/api-testing-suite
 - Created REST Assured-based API testing framework for insurance policy services
 - Implemented data-driven testing for multiple policy scenarios
 - Automated regression suite for 50+ API endpoints
 - Reduced API testing cycle time from days to hours
-- Implemented comprehensive error handling and validation mechanisms
 
 **CI/CD Pipeline for Automated Testing** | GitHub: github.com/reddyjyotheeswar/cicd-pipeline-demo
 - Built complete CI/CD pipeline for automated testing integration
@@ -86,22 +76,17 @@ Results-driven SDET with 5+ years of experience at Infosys, specializing in test
 
 ## EDUCATION
 
-**B.Tech in Computer Science and Engineering**  
-IIIT RGUKT, RK Valley | 2020 | CGPA: 8.2/10 (82%)
-
-**Intermediate (MPC)**  
-RGUKT RK Valley | 2016 | 82%
-
-**SSC**  
-ZPHS M. Paipalli | 2014 | 98%
+**B.Tech in Computer Science and Engineering** | IIIT RGUKT, RK Valley | *2020* | CGPA: 8.2/10 (82%)  
+**Intermediate (MPC)** | RGUKT RK Valley | *2016* | 82%  
+**SSC** | ZPHS M. Paipalli | *2014* | 98%
 
 ---
 
 ## CERTIFICATIONS
 
-- **Infosys Certified DevOps Professional** (In Progress)
-- **ISTQB Foundation Level** (Planned - Q3 2026)
-- **Selenium WebDriver Certification** (Planned - Q4 2026)
+- Infosys Certified DevOps Professional (In Progress)
+- ISTQB Foundation Level (Planned - Q3 2026)
+- Selenium WebDriver Certification (Planned - Q4 2026)
 
 ---
 
@@ -113,28 +98,19 @@ ZPHS M. Paipalli | 2014 | 98%
 - Agile testing methodologies and best practices implementation
 - Problem-solving and analytical thinking for complex testing scenarios
 - Quick learner and adaptable to new technologies and frameworks
-- Strong communication and documentation skills
 
 ---
 
 ## LANGUAGES
 
-**English:** Professional Proficiency  
-**Telugu:** Native Proficiency  
-**Hindi:** Basic Proficiency
+**English:** Professional Proficiency | **Telugu:** Native Proficiency | **Hindi:** Basic Proficiency
 
 ---
 
 ## INTERESTS
 
-- Test Automation Framework Development
-- CI/CD Pipeline Implementation
-- API Testing and Integration
-- Cloud Testing (AWS, Azure)
-- Performance Testing
-- Open Source Contributions
-- Technical Blogging and Knowledge Sharing
+Test Automation Framework Development, CI/CD Pipeline Implementation, API Testing and Integration, Cloud Testing (AWS, Azure), Performance Testing, Open Source Contributions, Technical Blogging and Knowledge Sharing
 
 ---
 
-**References available upon request**
+*References available upon request*
